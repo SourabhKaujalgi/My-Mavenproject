@@ -6,7 +6,7 @@ public class HellomavenTest {
 	@Test
 	public void demo()
 	{
-		System.out.println("This is maven demo1xzcdzfdsfds1");
+		System.out.println("This is maven demo1xzcdzfddfdsfdssfds1");
 	}
 	
 
